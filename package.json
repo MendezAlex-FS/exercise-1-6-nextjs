@@ -5,9 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "eslint",
-    "deploy": "next build && gh-pages -d out"
+    "start": "next start"
   },
   "dependencies": {
     "next": "16.0.5",
